@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I’m Yuri! I’m interested in coding (sometimes), and I’m looking to collaborate on making apps?? 
+👋 Hi, I’m Poy! I’m interested in coding, and I would love to collaborate on building something powerful! 
 
 Connect with me:
 
