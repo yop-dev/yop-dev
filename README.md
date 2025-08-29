@@ -6,6 +6,8 @@ Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=eceff4)]([https://github.com/2Yuri-afk](https://github.com/yop-dev))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/joner-de-silva-861575203)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2e3440?style=for-the-badge&logo=vercel&logoColor=white)](https://yop-dev.vercel.app)
+
 
 Tools I am proficient in:
 
@@ -18,11 +20,8 @@ Tools I am proficient in:
 
   <img src="https://github-readme-stats.vercel.app/api?username=yop-dev&show_icons=true&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yop-dev&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
-  <a href="https://yop-dev.vercel.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yop-dev&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
-</a>
 
 
 
-<img src="https://i.pinimg.com/originals/c6/be/b8/c6beb86a517fada8fd8928684f5552ba.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWExN3hvdXgxcjZpbzN6OXd0emZtOHloaTIycWh2MmoxczlhcTZiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UIlOXzUa0mu88/giphy.gif" width="400" />
 </div>
