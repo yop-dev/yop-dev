@@ -13,11 +13,15 @@ Tools I am proficient in:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=yop-dev&show_icons=true&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yop-dev&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
+  <a href="https://yop-dev.vercel.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yop-dev&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
+</a>
+
 
 
 <img src="https://i.pinimg.com/originals/c6/be/b8/c6beb86a517fada8fd8928684f5552ba.gif" width="400" />
