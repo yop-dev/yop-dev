@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I’m Poy! I’m interested in coding, and I would love to collaborate on building something powerful! 
+👋 Hi, I’m Poy! I’m interested in coding, and I would love to collaborate on building something powerful (like Kurapika)!! 
 
 Connect with me:
 
