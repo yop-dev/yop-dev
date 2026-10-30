@@ -18,7 +18,6 @@ Tools I am proficient in:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yop-dev&show_icons=true&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yop-dev&layout=compact&title_color=eceff4&text_color=d8dee9&icon_color=88c0d0&border_color=3b4252&bg_color=2e3440" height="180em" />
 
 
